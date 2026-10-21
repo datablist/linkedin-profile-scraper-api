@@ -221,7 +221,7 @@ read the results. The API processes tasks in the background for all three client
 
 ## Other Datablist API examples
 
-- [LinkedIn Profile Finder API](https://github.com/datablist/linkedin-profile-finder-api): find profiles from names and company keywords.
 - [Company Name to Domain API](https://github.com/datablist/company-name-to-domain-api): find company websites from names.
 - [Company Name Cleaner API](https://github.com/datablist/company-name-cleaner-api): clean and standardize company names.
+- [LinkedIn Profile Finder API](https://github.com/datablist/linkedin-profile-finder-api): find profiles from names and company keywords.
 - [Impressum Scraper API](https://github.com/datablist/impressum-scraper-api): extract business details from website Impressum pages.
