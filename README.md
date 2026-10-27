@@ -227,7 +227,10 @@ read the results. The API processes tasks in the background for all three client
 
 - [Company Name to Domain API](https://github.com/datablist/company-name-to-domain-api): find company websites from names.
 - [Company Name Cleaner API](https://github.com/datablist/company-name-cleaner-api): clean and standardize company names.
+- [Company to LinkedIn API](https://github.com/datablist/company-to-linkedin-api): find LinkedIn company pages from websites, or websites from LinkedIn company pages.
 - [LinkedIn Profile Finder API](https://github.com/datablist/linkedin-profile-finder-api): find profiles from names and company keywords.
 - [LinkedIn Company Scraper API](https://github.com/datablist/linkedin-company-scraper-api): retrieve company details from LinkedIn company pages.
 - [Impressum Scraper API](https://github.com/datablist/impressum-scraper-api): extract business details from website Impressum pages.
 - [Waterfall Email Finder API](https://github.com/datablist/waterfall-email-finder-api): find work emails from names and companies or LinkedIn URLs.
+- [Waterfall Phone Finder API](https://github.com/datablist/waterfall-phone-finder-api): find phone numbers from LinkedIn profile URLs.
+- [Waterfall Personal Email Finder API](https://github.com/datablist/waterfall-personal-email-finder-api): find personal email addresses from LinkedIn profile URLs.
