@@ -11,6 +11,16 @@ workflow in your own application.
 Already have a name but need the profile URL? Start with the
 [LinkedIn Profile Finder API](https://github.com/datablist/linkedin-profile-finder-api).
 
+## Cost
+
+- **25 credits per profile** for a fresh lookup.
+- **20 credits per profile** when using cached profiles with
+  `acceptCachedProfiles: true`.
+
+Costs are in Datablist credits. Each result reports its actual `creditsUsed`.
+See the [API cost and limits](https://platform.datablist.com/docs/enrichments/tools/linkedin-profile-scraper#credits-and-limits)
+and [credit pack pricing](https://www.datablist.com/pricing) for current rates.
+
 ## Get started
 
 Choose [Python](python/README.md) or [TypeScript](typescript/README.md).
@@ -35,12 +45,6 @@ npx tsx typescript/example.ts
 
 With Node.js 24.3 or newer, you can also run `node typescript/example.ts` directly.
 Run each command block from the repository root.
-
-Calls use account credits. Fresh and cached profiles have different costs;
-see the current
-[credit cost and limits](https://platform.datablist.com/docs/enrichments/tools/linkedin-profile-scraper#credits-and-limits)
-and [pricing](https://www.datablist.com/pricing). Each result reports its actual
-`creditsUsed`.
 
 ## Input and output
 
